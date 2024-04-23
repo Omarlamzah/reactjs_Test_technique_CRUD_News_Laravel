@@ -1,0 +1,42 @@
+.ltmode {
+    background-color: #fff !important;
+    color: #333 !important;
+  }
+  
+  /* dark-mode.css */
+  .drmode {
+    background-color: #333 !important;
+    color: #fff !important;
+  }
+
+
+  .navmoddrk{
+    background-color:  #191970 !important;
+    color:  #fff!important;
+  }
+  .navltmod {
+    background-color:	#596ac8 !important;
+    color:#333  !important;
+  }
+
+
+  .authdark {
+    background-color: #4c8f79 !important;
+    color: #fff0f0 !important;
+  }
+  .autligth {
+    background-color: #ebda78	 !important;
+    color: #0a0808 !important;
+  }
+
+
+  .welcomdark {
+    background-color: #0F3457 !important;
+    color: #fff0f0 !important;
+  }
+  .welcomlligth {
+    background-color: #69aff0	 !important;
+    color: #0a0808 !important;
+  }
+
+
